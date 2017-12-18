@@ -32,7 +32,7 @@ from matplotlib.pyploat as plot
 
 from skimage.data import imread
 
-## Video for Setting up CUDA GPU computing
+## Video for Setting up CUDA GPU computing with Tensorflow
 https://www.youtube.com/watch?v=io6Ajf5XkaM
 
 
