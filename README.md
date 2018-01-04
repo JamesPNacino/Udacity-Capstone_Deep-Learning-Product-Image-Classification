@@ -5,6 +5,10 @@
 I participated in a Kaggle competition for my Udacity capstone project. Kaggle is home to data science competitions.
 https://www.kaggle.com/c/cdiscount-image-classification-challenge
 
+### Summary 
+
+This project is to use deep learning to classify product images. Cdiscount provided their product images and would like to improve their accuracy when classifying the images into respective categories. This project is to use deep learning to train a model which can accurately predict the various images into their respective category.
+
 ### Python Packages Required to Load in Environment - Install
 Note: These packages and step by step walkthrough of running this project are found in the 'Capstone Report.ipynb' file
 
